@@ -1,0 +1,106 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl:
+url: http://blog.codezeg.com
+date_format: "ordinal"
+title: CodeZeg
+subtitle: "代码改变世界"
+description: "李纠结的个人博客"
+keywords: 李纠结, CodeZeg, 张二狗, 李思禹, 花千骨, Unity, 游戏开发
+favicon: /favicon.ico
+timezone: Asia/Chengdu
+encoding: "utf-8"
+source_code: https://github.com/codezeg/codezeg.github.io
+
+# ---------------- #
+#      Author      #
+# ---------------- #
+author: siyu li
+organization: 1ktower
+organization_url: http://www.1ktower.com/
+location: Chengdu, China
+email: 576603306@qq.com
+
+# ---------------- #
+#    Navigation    #
+# ---------------- #
+navs:
+  -
+    href: /
+    label: 首页
+
+  -
+    href: /categories/
+    label: 分类
+
+  -
+    href: /wiki/
+    label: 维基
+
+  -
+    href: /links/
+    label: 链接
+
+  -
+    href: /about/
+    label: 关于
+
+# ---------------- #
+#       RSS        #
+# ---------------- #
+subscribe_rss: /feed.xml
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
+paginate: 8
+lsi: false
+quiet: false
+excerpt_separator: "\n\n"
+permalink: /:year/:month/:day/:title/
+gems:
+    - rouge
+#     - jekyll-html-pipeline
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+#     - jekyll-mentions
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Socials     #
+# ---------------- #
+github_username: codezeg
+# douban_username: freedim
+# facebook_username: mzlogin
+# weibo_username: mzlogin
+# zhihu_username: mzlogin
+# twitter_username: mzlogin
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: disqus, duoshuo, changyan
+comments_provider: disqus
+# !!!重要!!! 请修改下面两个用户名为你自己申请的
+# !!!Important!!! Please modify usernames below to yours
+duoshuo_username: codezeg
+disqus_username: codezeg
+
+# ---------------- #
+#      Datas       #
+# ---------------- #
+skill_software_keywords: [C#, Java, C++, Python, Lua, Cobol]
+skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'mzlogin.github.io', 'vim-markdown-toc']
+contribute_repos: ['sparanoid/chinese-copywriting-guidelines', 'waylife/RentCrawer']
