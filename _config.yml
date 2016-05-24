@@ -99,12 +99,12 @@ disqus_username: codezeg
 # ---------------- #
 #      Share       #
 # ---------------- #
-share : false
+share: false
 
 # ---------------- #
 #    analytics     #
 # ---------------- #
-ba_track_id = bd2467324f743720cbfae5e109983a92
+ba_track_id: bd2467324f743720cbfae5e109983a92
 
 # ---------------- #
 #      Datas       #
