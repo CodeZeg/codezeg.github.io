@@ -102,6 +102,11 @@ disqus_username: codezeg
 share : false
 
 # ---------------- #
+#    analytics     #
+# ---------------- #
+ba_track_id = bd2467324f743720cbfae5e109983a92
+
+# ---------------- #
 #      Datas       #
 # ---------------- #
 skill_software_keywords: [C#, Java, C++, Python, Lua, Cobol]
