@@ -10,13 +10,11 @@
 						<span class="repo-icon octicon octicon-repo"></span>
 						<span class="meta-info tooltipped tooltipped-n" aria-label="{{ repo.description }}">{{ repo.name }}</span>
 						<span class="stars">
-							<span class="meta-info tooltipped tooltipped-n">{{ repo.language }}</span>
-							<span class="meta-info tooltipped tooltipped-n">
-								<span class="octicon octicon-star"></span> {{ repo.stargazers_count }} stars
-							</span>
-							<span class="meta-info tooltipped tooltipped-n">
-								<span class="octicon octicon-git-branch"></span> {{ repo.forks_count }} forks
-							</span>
+							<span>{{ repo.language }}</span>
+							<span class="octicon octicon-star"></span>
+							<span>{{ repo.stargazers_count }}</span>
+							<span class="octicon octicon-git-branch"></span>
+							<span>{{ repo.forks_count }}</span>
 						</span>
 					</a>
 				</li>
