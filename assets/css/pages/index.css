@@ -1,8 +1,5 @@
 
 @media (max-width:50em) {
-  .home .collapsed .icon-bar {
-    background-color: white;
-  }
 
   .home .collection-head .collection-header {
     font-size: 1.25em;

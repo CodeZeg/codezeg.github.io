@@ -98,7 +98,7 @@
     width: 22px;
     height: 2px;
     border-radius: 1px;
-    background-color: #563d7c;
+    background-color: black;
   }
 
   .collapsed .icon-bar + .icon-bar {
