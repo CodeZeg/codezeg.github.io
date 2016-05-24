@@ -11,7 +11,7 @@ keywords: 李纠结, CodeZeg, 张二狗, 李思禹, 花千骨, Unity, 游戏开�
 favicon: /favicon.ico
 timezone: Asia/Chengdu
 encoding: "utf-8"
-source_code: https://github.com/codezeg/codezeg.github.io
+source_code: https://github.com/codezeg
 
 # ---------------- #
 #      Author      #
@@ -80,11 +80,11 @@ collections:
 #      Socials     #
 # ---------------- #
 github_username: codezeg
-# douban_username: freedim
-# facebook_username: mzlogin
-# weibo_username: mzlogin
-# zhihu_username: mzlogin
-# twitter_username: mzlogin
+# douban_username: codezeg
+# facebook_username: codezeg
+# weibo_username: codezeg
+# zhihu_username: codezeg
+# twitter_username: codezeg
 
 # ---------------- #
 #      Comments    #
@@ -94,7 +94,7 @@ comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
 duoshuo_username: codezeg
-disqus_username: codezeg
+# disqus_username: codezeg
 
 # ---------------- #
 #      Share       #
@@ -112,5 +112,5 @@ ba_track_id: bd2467324f743720cbfae5e109983a92
 skill_software_keywords: [C#, Java, C++, Python, Lua, Cobol]
 skill_mobile_app_keywords: [Android, Reverse Engineering]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
-popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'mzlogin.github.io', 'vim-markdown-toc']
-contribute_repos: ['sparanoid/chinese-copywriting-guidelines', 'waylife/RentCrawer']
+popular_repos: ['codezeg.github.io', 'lol_rpg']
+contribute_repos: ['UnrealEngine', 'EpicGames/UnrealEngine']
