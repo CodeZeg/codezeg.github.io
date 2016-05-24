@@ -19,9 +19,11 @@ layout: default
             <article class="article-content markdown-body">
                 {{ content }}
             </article>
-            <div class="share">
-                {% include sns-share.html %}
-            </div>
+			{% if page.share %}
+				<div class="share">
+					{% include sns-share.html %}
+				</div>
+			{% endif %}
             <div class="comment">
                 {% include comments.html %}
             </div>

@@ -97,6 +97,11 @@ duoshuo_username: codezeg
 disqus_username: codezeg
 
 # ---------------- #
+#      Share       #
+# ---------------- #
+share : false
+
+# ---------------- #
 #      Datas       #
 # ---------------- #
 skill_software_keywords: [C#, Java, C++, Python, Lua, Cobol]
