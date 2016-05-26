@@ -41,7 +41,7 @@ permalink: /open-source/
         var repoList = $('<ul class="collection-listing clearfix"></ul>');
         var repoCount = 0;
 
-        $.get('https://api.github.com/users/mzlogin/repos?type=owner',
+        $.get('https://api.github.com/users/codezeg/repos?type=owner',
           function(repos){
             if (!repos) {
               repoListWrap.html('<div class="blankslate"><h3>加载失败</h3><p>请刷新或稍后再试...</p></div>');
