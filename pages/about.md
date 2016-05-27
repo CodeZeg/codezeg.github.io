@@ -6,7 +6,7 @@ keywords: codezeg, siyu li, 李思禹, 李纠结
 comments: true
 menu: 关于
 permalink: /about/
-working: C#, Java, C++, Python, Lua, Cobol, Unity3D, Html, Asp.net, Jsp, Bat, Bash, Shell, Android
+working: [C#, Java, C++, Python, Lua, Cobol, Unity3D, Html, Asp.net, Jsp, Bat, Bash, Shell, Android]
 studying: 游戏服务器知识, 代码大全, 设计模式, 游戏引擎
 planing: 计算机图形学
 ---
