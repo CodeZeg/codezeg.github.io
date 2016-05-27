@@ -16,12 +16,15 @@ permalink: /links/
 * [segmentfault](https://segmentfault.com)
 * [Unity3D](http://www.unity.com/)
 * [游戏蛮牛](http://www.manew.com/)
+* [简书](http://www.jianshu.com/)
+* [开发者头条](http://toutiao.io/)
 
 > Careful
 
-* [码志](http://mazhuang.org)
 * [瀚阳的博客](http://jjyy.guru/)
 * [雨松MoMo](http://www.xuanyusong.com/)
 * [云风的 BLOG](http://blog.codingnow.com/)
 
 > Friends
+
+* 暂时还莫有 QAQ

@@ -1,34 +1,37 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 游戏改变世界
+keywords: codezeg, siyu li, 李思禹, 李纠结
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我叫李纠结
 
-仰慕「优雅编码的艺术」。
+一个每天都在需求进步的游戏人
 
-## 坚信
+## 墓志铭
 
-* 熟能生巧
-* 努力改变人生
+* 影响一代人的xxx游戏缔造者
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
+* GitHub：[codezeg](https://github.com/codezeg)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
+* 邮箱: 576603306@qq.com
 
-## Skill Keywords
+### 历史作品
 
-#### Software Engineer Keywords
+1. **花千骨** (现象级手游)(unity)
+2. **炼金工坊** (产品未上线，公司破产了)(unity)
+3. **艾达王国** (实习带队作品，上线品质)(cocos2d-x)
+4. **魔塔** (自我学习项目，全仿页游魔塔)(XNA)
+5. 
+
+
+### 专业技能
 <div class="btn-inline">
     {% for keyword in site.skill_software_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>

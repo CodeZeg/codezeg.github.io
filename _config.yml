@@ -5,7 +5,7 @@ baseurl:
 url: http://blog.codezeg.com
 date_format: "ordinal"
 title: CodeZeg
-subtitle: "代码改变世界"
+subtitle: "游戏改变世界"
 description: "李纠结的个人博客"
 keywords: 李纠结, CodeZeg, 张二狗, 李思禹, 花千骨, Unity, 游戏开发
 favicon: /favicon.ico
@@ -107,10 +107,7 @@ share: false
 ba_track_id: bd2467324f743720cbfae5e109983a92
 
 # ---------------- #
-#      Datas       #
+#      Repos       #
 # ---------------- #
-skill_software_keywords: [C#, Java, C++, Python, Lua, Cobol]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
 popular_repos: ['codezeg.github.io', 'lol_rpg']
 contribute_repos: ['UnrealEngine', 'EpicGames/UnrealEngine']
