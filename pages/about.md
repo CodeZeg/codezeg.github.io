@@ -7,8 +7,8 @@ comments: true
 menu: 关于
 permalink: /about/
 working: [C#, Java, C++, Python, Lua, Cobol, Unity3D, Html, Asp.net, Jsp, Bat, Bash, Shell, Android]
-studying: 游戏服务器知识, 代码大全, 设计模式, 游戏引擎
-planing: 计算机图形学
+studying: [游戏服务器知识, 代码大全, 设计模式, 游戏引擎]
+planing: [计算机图形学, 游戏设计]
 ---
 
 我叫李纠结
@@ -44,7 +44,7 @@ planing: 计算机图形学
 #### Working
 <div class="btn-inline">
     {% for keyword in page.working %}
-    <button class="btn btn-outline" type="button">C#</button>
+    <button class="btn btn-outline" type="button">keyword</button>
     {% endfor %}
 </div>
 
