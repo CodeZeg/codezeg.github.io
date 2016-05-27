@@ -3,14 +3,25 @@ layout: page
 title: Links
 description: 没有链接的博客是孤独的
 keywords: 友情链接
-comments: true
+comments: false
 menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> Useful
 
-* [Connie酱](http://biedan.org)
-* [只宁静不致远](http://zxning.github.io/)
-* [Blog Something](http://chenxiaoyoyo.github.io)
+* [github](https://github.com)
+* [oschina](http://www.oschina.net)
+* [Stack Overflow](http://stackoverflow.com/)
+* [segmentfault](https://segmentfault.com)
+* [Unity3D](http://www.unity.com/)
+* [游戏蛮牛](http://www.manew.com/)
+
+> Careful
+
 * [码志](http://mazhuang.org)
+* [瀚阳的博客](http://jjyy.guru/)
+* [雨松MoMo](http://www.xuanyusong.com/)
+* [云风的 BLOG](http://blog.codingnow.com/)
+
+> Friends
