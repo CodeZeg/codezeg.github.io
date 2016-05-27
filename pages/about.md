@@ -44,7 +44,7 @@ planing: [计算机图形学, 游戏设计]
 #### Working
 <div class="btn-inline">
     {% for keyword in page.working %}
-    <button class="btn btn-outline" type="button">keyword</button>
+    <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
 
