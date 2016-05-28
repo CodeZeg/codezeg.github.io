@@ -24,6 +24,7 @@ permalink: /links/
 * [瀚阳的博客](http://jjyy.guru/)
 * [雨松MoMo](http://www.xuanyusong.com/)
 * [云风的 BLOG](http://blog.codingnow.com/)
+* [Gu Lu's Blog](http://gulu-dev.com/)
 
 > Friends
 
