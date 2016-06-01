@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://blog.codezeg.com
+url: http://www.codezeg.com
 date_format: "ordinal"
 title: CodeZeg
 subtitle: "游戏改变世界"
