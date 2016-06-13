@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 有朋自远方来 不亦乐乎
 description: 没有链接的博客是孤独的
 keywords: 友情链接
 comments: false

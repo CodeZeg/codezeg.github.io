@@ -5,7 +5,7 @@ baseurl:
 url: http://www.codezeg.com
 date_format: "ordinal"
 title: CodeZeg
-subtitle: "游戏改变世界"
+subtitle: "欢迎来到 召唤师峡谷"
 description: "李纠结的个人博客"
 keywords: 李纠结, CodeZeg, 张二狗, 李思禹, 花千骨, Unity, 游戏开发
 favicon: /favicon.ico
@@ -32,11 +32,11 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: 思考
 
   -
     href: /wiki/
-    label: 维基
+    label: 学习
 
   -
     href: /links/

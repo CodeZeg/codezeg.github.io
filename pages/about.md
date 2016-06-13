@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: it's me
 description: 游戏改变世界
 keywords: codezeg, siyu li, 李思禹, 李纠结
 comments: true
