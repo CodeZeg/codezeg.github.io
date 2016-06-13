@@ -1,7 +1,6 @@
 ---
 layout: wiki
 title: Unity
-categories: [cate1, cate2]
 description: Unity的一些注意事项
 keywords: Unity, C#
 ---

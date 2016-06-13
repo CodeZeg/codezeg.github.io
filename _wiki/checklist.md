@@ -1,7 +1,6 @@
 ---
 layout: wiki
 title: 代码质量评估审查表
-categories: [cate1, cate2]
 description: 从代码大全整理出来的代码审查表
 keywords: checklist, 代码大全, review
 ---

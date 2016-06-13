@@ -37,7 +37,11 @@ navs:
   -
     href: /wiki/
     label: 学习
-
+ 
+  -
+    href: /practice/
+    label: 实践
+    
   -
     href: /links/
     label: 链接
