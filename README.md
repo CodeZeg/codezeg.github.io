@@ -1,7 +1,7 @@
 # CodeZeg
 =================
 
-我的个人博客：<http://blog.codezeg.com>，外观基于 [DONGChuan](http://mzlogin.github.io) 修改，感谢！
+我的个人博客：<http://blog.codezeg.com>，外观基于 [mazhuang.org/](http://mzlogin.github.io) 修改，感谢！
 
 欢迎 Star 和 Fork。
 

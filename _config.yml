@@ -69,7 +69,7 @@ gems:
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
-    - jemoji
+#     - jemoji
 #     - jekyll-mentions
 collections:
     wiki:
