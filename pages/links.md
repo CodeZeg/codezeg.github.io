@@ -28,4 +28,4 @@ permalink: /links/
 
 > Friends
 
-* 暂时还莫有 QAQ
+* [LazyKris](http://blog.lingkeyang.com)
