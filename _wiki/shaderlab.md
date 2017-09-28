@@ -79,11 +79,11 @@ keywords: shader, unity
     1. Legacy fixed-function Shader commands 
         1. Lighting On | Off
         1. Material { Material Block }
-            1. Diffuse Color            // 漫反射
-            1. Ambient Color            // 环境色
-            1. Specular Color           // 高光色
-            1. Shininess Number         // 光泽度
-            1. Emission Color           // 自发光
+            1. Diffuse Color            `漫反射`
+            1. Ambient Color            `环境色`
+            1. Specular Color           `高光色`
+            1. Shininess Number         `光泽度`
+            1. Emission Color           `自发光`
             1. FinalColor = Ambient * ambientsetting + (Light Color * Diffuse + Light Color *Specular) + Emission
         1. SeparateSpecular On | Off
         1. Color Color-value
@@ -96,18 +96,18 @@ keywords: shader, unity
                 1. combine src1 * src2
                 1. combine src1 + src2
                 1. combine src1 - src2
-                1. combine src1 lerp (src2) src3 // 如果src2.alpha=1则返回src1, 如果src2.alpha=0则返回src3
+                1. combine src1 lerp (src2) src3 `如果src2.alpha=1则返回src1, 如果src2.alpha=0则返回src3`
                 1. combine src1 * src2 + src3
-                1. combine RGB , A              // 可以用逗号分隔 RGB 和 Alpha 表达式
+                1. combine RGB , A              `可以用逗号分隔 RGB 和 Alpha 表达式`
             1. combine src
-                1. Previous // 上一次SetTexture的结果
-                1. Primary // 来自光照计算的颜色或是当它绑定时的顶点颜色
-                1. Texture // 在SetTexture中被定义的纹理的颜色
-                1. Constant // 被ConstantColor定义的颜色
+                1. Previous `上一次SetTexture的结果`
+                1. Primary `来自光照计算的颜色或是当它绑定时的顶点颜色`
+                1. Texture `在SetTexture中被定义的纹理的颜色`
+                1. Constant `被ConstantColor定义的颜色`
             1. combine tips
-                1. Double or Quad // 调高亮度2倍或4倍
-                1. one - // 可以取到负数
-                1. alpha  // 只取用alpha通道
+                1. Double or Quad `调高亮度2倍或4倍`
+                1. one - `可以取到负数`
+                1. alpha  `只取用alpha通道`
             1. ConstantColor color
             1. matrix [MatrixPropertyName]
 
