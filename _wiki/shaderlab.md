@@ -79,6 +79,12 @@ keywords: shader, unity
     1. Legacy fixed-function Shader commands 
         1. Lighting On | Off
         1. Material { Material Block }
+            1. Diffuse Color            // 漫反射
+            1. Ambient Color            // 环境色
+            1. Specular Color           // 高光色
+            1. Shininess Number         // 光泽度
+            1. Emission Color           // 自发光
+            1. FinalColor = Ambient * ambientsetting + (Light Color * Diffuse + Light Color *Specular) + Emission
         1. SeparateSpecular On | Off
         1. Color Color-value
         1. ColorMaterial AmbientAndDiffuse | Emission
