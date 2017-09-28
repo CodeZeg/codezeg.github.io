@@ -15,16 +15,16 @@ keywords: shader, unity
 
     Properties { Property [Property ...] }
 
-    1. Numbers and Sliders
+    *. Numbers and Sliders
     name ("display name", Range (min, max)) = number
     name ("display name", Float) = number
     name ("display name", Int) = number
 
-    1. Colors and Vectors
+    *. Colors and Vectors
     name ("display name", Color) = (number,number,number,number)
     name ("display name", Vector) = (number,number,number,number)
 
-    1. Textures
+    *. Textures
     name ("display name", 2D) = "defaulttexture" {}
     name ("display name", Cube) = "defaulttexture" {}
     name ("display name", 3D) = "defaulttexture" {}
@@ -90,7 +90,7 @@ keywords: shader, unity
                 1. combine src1 * src2
                 1. combine src1 + src2
                 1. combine src1 - src2
-                1. combine src1 lerp (src2) src3
+                1. combine src1 lerp (src2) src3 [如果src2.alpha=1则返回src1, 如果src2.alpha=0则返回src3]
                 1. combine src1 * src2 + src3
             1. combine src
                 1. Previous 上一次SetTexture的结果
@@ -99,7 +99,7 @@ keywords: shader, unity
                 1. Constant 被ConstantColor定义的颜色
             1. combine tips
                 1. Double or Quad 调高亮度2倍或4倍
-                1. - 终颜色反相
+                1. one - 可以取到负数
                 1. alpha  只取用alpha通道
             1. ConstantColor color
             1. matrix [MatrixPropertyName]
