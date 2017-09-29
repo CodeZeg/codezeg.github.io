@@ -70,11 +70,11 @@ keywords: shader, unity
 
 ### Pass RenderSetup
 
-1. Cull Back | Front | Off
+1. Cull Back | Front | Off          `剔除掉  背离观察者 | 面向观察者 | 关闭`
 1. ZTest (Less | Greater | LEqual | GEqual | Equal | NotEqual | Always)
 1. ZWrite On | Off
-1. Offset OffsetFactor, OffsetUnits
-1. Blend sourceBlendMode|destBlendMode
+1. Offset Factor, Units
+1. Blend sourceBlendMode | destBlendMode
 1. ColorMask RGB | A | 0 | any combination of R, G, B, A
 1. Legacy fixed-function Shader commands 
     1. Lighting On | Off
@@ -89,6 +89,10 @@ keywords: shader, unity
     1. Color Color-value
     1. ColorMaterial AmbientAndDiffuse | Emission
     1. Fog { Fog Block }
+        1. Mode Off | Global | Linear | Exp | Exp2
+        1. Color ColorValue
+        1. Density FloatValue
+        1. Range FloatValue , FloatValue
     1. AlphaTest (Less | Greater | LEqual | GEqual | Equal | NotEqual | Always) CutoffValue
     1. SetTexture textureProperty { combine options }
         1. SetTexture [TextureName] {Texture Block}
